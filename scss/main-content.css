@@ -1,0 +1,9 @@
+section#main-content {
+  padding: 0px 100px 0px 250px;
+  background-color: #0E0E0E;
+}
+@media screen and (max-width: 768px) {
+  section#main-content {
+    padding: 0px 20px;
+  }
+}/*# sourceMappingURL=main-content.css.map */
